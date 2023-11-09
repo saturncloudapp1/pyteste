@@ -8,4 +8,3 @@ def hello_world():
 
 if __name__=='__main__':
     app.run(port=8000)  # Defina a porta 8000 aqui
-
